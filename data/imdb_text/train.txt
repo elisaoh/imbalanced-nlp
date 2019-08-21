@@ -1,0 +1,1 @@
+"/Users/elisa/Downloads/nlp/sentimentAnalysis/sentiment_analysis/data/imdb/train.json"
